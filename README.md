@@ -1,6 +1,6 @@
 
 
-## <div style="text-align:center; color:FFF; color: white;font:1.5em serif;"> HI! I'm André <div>
+## <div align="center"> HI! I'm André <div>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Angreen1623&show_icons=true&custom_title=André+Oliveira_Paim%27s+Github+status&title_color=00EBFD&text_color=768280&icon_color=FFFFFF&bg_color=0,000000,2F4044&border_color=2F4044&cache_seconds=2300" alt="ilustração do status do github">
 
